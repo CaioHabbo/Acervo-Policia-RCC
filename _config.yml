@@ -12,3 +12,10 @@ search_enabled: true
 heading_anchors: true
 
 footer_content: "Copyright &copy; Caiorocha1230. Polícia RCC"
+
+color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
