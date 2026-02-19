@@ -8,3 +8,5 @@ logo: https://2img.net/i.imgur.com/8taLDTi.png
 favicon_ico: https://2img.net/i.imgur.com/8taLDTi.png
 
 search_enabled: true
+
+heading_anchors: true
