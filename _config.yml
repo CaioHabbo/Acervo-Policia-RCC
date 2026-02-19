@@ -4,6 +4,6 @@ theme: just-the-docs
 
 url: https://acervorcc.netlify.app
 
-logo:
+logo: "/assets/images/just-the-docs.png"
 
 search_enabled: true
