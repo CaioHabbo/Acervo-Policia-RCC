@@ -19,3 +19,7 @@ callouts:
   warning:
     title: Warning
     color: yellow
+    
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
