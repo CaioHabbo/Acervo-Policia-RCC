@@ -1,9 +1,0 @@
-/* Diminuir largura da sidebar */
-.side-bar {
-  width: 220px !important;
-}
-
-/* Ajustar área principal */
-.main {
-  margin-left: 220px !important;
-}
