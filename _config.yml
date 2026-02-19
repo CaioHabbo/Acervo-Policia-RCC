@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Acervo Polícia RCC
+description: O acervo da Polícia RCC que reune história, fatos históricos, imagens, depoimentos e muito mais em um só lugar. Saber a história é mantê-la viva.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://acervorcc.netlify.app
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo:
+
+search_enabled: true
